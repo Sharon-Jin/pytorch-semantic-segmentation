@@ -7,7 +7,7 @@ from torch.utils import data
 
 num_classes = 21
 ignore_label = 255
-root = '/media/library/Packages/Datasets/VOC'
+root = '/home/ilim/sk/apc/harp/data/VOC'
 
 '''
 color map
